@@ -7,7 +7,7 @@ public class Calculadora {
 
 		CalculadoraFrame frame = new CalculadoraFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setSize(300, 150);
+		frame.setSize(200, 200);
 		frame.setVisible(true);
 
 	}
